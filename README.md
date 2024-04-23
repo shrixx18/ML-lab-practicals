@@ -1,2 +1,3 @@
 # Lab ML
-1.
+1. Basic Programming in python
+2. 
